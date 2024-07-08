@@ -1,0 +1,308 @@
+[
+  {
+    "amount": 200.97,
+    "name": "Internet bill",
+    "category": "Housing",
+    "date": "2024-02-05T00:00:00.000000Z"
+  },
+  {
+    "amount": 25.28,
+    "name": "Concert tickets",
+    "category": "Entertainment",
+    "date": "2024-02-02T00:00:00.000000Z"
+  },
+  {
+    "amount": 30.47,
+    "name": "Movie tickets",
+    "category": "Entertainment",
+    "date": "2024-03-11T00:00:00.000000Z"
+  },
+  {
+    "amount": 1000.6,
+    "name": "Rent",
+    "category": "Housing",
+    "date": "2024-04-09T00:00:00.000000Z"
+  },
+  {
+    "amount": 8.99,
+    "name": "Fast food",
+    "category": "Food",
+    "date": "2024-06-24T00:00:00.000000Z"
+  },
+  {
+    "amount": 10.1,
+    "name": "Snacks",
+    "category": "Food",
+    "date": "2024-06-03T00:00:00.000000Z"
+  },
+  {
+    "amount": 10.47,
+    "name": "Snacks",
+    "category": "Food",
+    "date": "2024-02-08T00:00:00.000000Z"
+  },
+  {
+    "amount": 500.04,
+    "name": "Electricity bill",
+    "category": "Housing",
+    "date": "2024-01-21T00:00:00.000000Z"
+  },
+  {
+    "amount": 30.45,
+    "name": "Taxi ride",
+    "category": "Transportation",
+    "date": "2024-05-13T00:00:00.000000Z"
+  },
+  {
+    "amount": 21.78,
+    "name": "Gifts",
+    "category": "Other",
+    "date": "2024-06-11T18:30:25.119Z"
+  },
+  {
+    "amount": 15.76,
+    "name": "Coffee",
+    "category": "Food",
+    "date": "2024-03-18T00:00:00.000000Z"
+  },
+  {
+    "amount": 10.13,
+    "name": "Snacks",
+    "category": "Food",
+    "date": "2024-02-19T00:00:00.000000Z"
+  },
+  {
+    "amount": 15.13,
+    "name": "Coffee",
+    "category": "Food",
+    "date": "2024-06-02T00:00:00.000000Z"
+  },
+  {
+    "amount": 12.49,
+    "name": "Pet Supplies",
+    "category": "Other",
+    "date": "2024-04-17T14:52:56.845Z"
+  },
+  {
+    "amount": 75.63,
+    "name": "Office Supplies",
+    "category": "Other",
+    "date": "2024-05-23T12:41:31.743Z"
+  },
+  {
+    "amount": 8.16,
+    "name": "Fast food",
+    "category": "Food",
+    "date": "2024-01-22T00:00:00.000000Z"
+  },
+  {
+    "amount": 30.43,
+    "name": "Gasoline",
+    "category": "Transportation",
+    "date": "2024-03-25T00:00:00.000000Z"
+  },
+  {
+    "amount": 7.99,
+    "name": "Garden Supplies",
+    "category": "Other",
+    "date": "2024-05-06T09:25:37.492Z"
+  },
+  {
+    "amount": 20.45,
+    "name": "Netflix subscription",
+    "category": "Entertainment",
+    "date": "2024-02-12T00:00:00.000000Z"
+  },
+  {
+    "amount": 500.83,
+    "name": "Rent",
+    "category": "Housing",
+    "date": "2024-03-06T00:00:00.000000Z"
+  },
+  {
+    "amount": 20.37,
+    "name": "Bus fare",
+    "category": "Transportation",
+    "date": "2024-04-15T00:00:00.000000Z"
+  },
+  {
+    "amount": 40.99,
+    "name": "Gasoline",
+    "category": "Transportation",
+    "date": "2024-04-16T00:00:00.000000Z"
+  },
+  {
+    "amount": 12.84,
+    "name": "Groceries",
+    "category": "Food",
+    "date": "2024-01-15T00:00:00.000000Z"
+  },
+  {
+    "amount": 30.29,
+    "name": "Movie tickets",
+    "category": "Entertainment",
+    "date": "2024-03-13T00:00:00.000000Z"
+  },
+  {
+    "amount": 10.57,
+    "name": "Lunch",
+    "category": "Food",
+    "date": "2024-03-07T00:00:00.000000Z"
+  },
+  {
+    "amount": 20.49,
+    "name": "Netflix subscription",
+    "category": "Entertainment",
+    "date": "2024-02-14T00:00:00.000000Z"
+  },
+  {
+    "amount": 20.37,
+    "name": "Bus fare",
+    "category": "Transportation",
+    "date": "2024-04-04T00:00:00.000000Z"
+  },
+  {
+    "amount": 50.66,
+    "name": "Movie tickets",
+    "category": "Entertainment",
+    "date": "2024-04-29T00:00:00.000000Z"
+  },
+  {
+    "amount": 10.14,
+    "name": "Snacks",
+    "category": "Food",
+    "date": "2024-02-21T00:00:00.000000Z"
+  },
+  {
+    "amount": 99.25,
+    "name": "Donation",
+    "category": "Other",
+    "date": "2024-02-20T04:47:23.125Z"
+  },
+  {
+    "amount": 40.18,
+    "name": "Gasoline",
+    "category": "Transportation",
+    "date": "2024-06-10T00:00:00.000000Z"
+  },
+  {
+    "amount": 15.84,
+    "name": "Subway fare",
+    "category": "Transportation",
+    "date": "2024-01-29T00:00:00.000000Z"
+  },
+  {
+    "amount": 15.53,
+    "name": "Subway fare",
+    "category": "Transportation",
+    "date": "2024-01-31T00:00:00.000000Z"
+  },
+  {
+    "amount": 54.99,
+    "name": "Book Purchase",
+    "category": "Other",
+    "date": "2024-01-09T22:16:03.000Z"
+  },
+  {
+    "amount": 15.6,
+    "name": "Coffee",
+    "category": "Food",
+    "date": "2024-05-06T00:00:00.000000Z"
+  },
+  {
+    "amount": 100.83,
+    "name": "Concert tickets",
+    "category": "Entertainment",
+    "date": "2024-04-01T00:00:00.000000Z"
+  },
+  {
+    "amount": 50.36,
+    "name": "Movie tickets",
+    "category": "Entertainment",
+    "date": "2024-06-21T00:00:00.000000Z"
+  },
+  {
+    "amount": 25.47,
+    "name": "Concert tickets",
+    "category": "Entertainment",
+    "date": "2024-05-27T00:00:00.000000Z"
+  },
+  {
+    "amount": 500.67,
+    "name": "Rent",
+    "category": "Housing",
+    "date": "2024-03-04T00:00:00.000000Z"
+  },
+  {
+    "amount": 25.99,
+    "name": "Taxi ride",
+    "category": "Transportation",
+    "date": "2024-02-26T00:00:00.000000Z"
+  },
+  {
+    "amount": 200.42,
+    "name": "Internet bill",
+    "category": "Housing",
+    "date": "2024-02-07T00:00:00.000000Z"
+  },
+  {
+    "amount": 30.45,
+    "name": "Taxi ride",
+    "category": "Transportation",
+    "date": "2024-01-31T00:00:00.000000Z"
+  },
+  {
+    "amount": 13.45,
+    "name": "Gym Membership",
+    "category": "Other",
+    "date": "2024-01-13T21:14:29.103Z"
+  },
+  {
+    "amount": 32.78,
+    "name": "Subscription Service",
+    "category": "Other",
+    "date": "2024-02-15T08:37:11.492Z"
+  },
+  {
+    "amount": 48.55,
+    "name": "Online Course",
+    "category": "Other",
+    "date": "2024-03-08T10:13:48.563Z"
+  },
+  {
+    "amount": 1000.86,
+    "name": "Rent",
+    "category": "Housing",
+    "date": "2024-04-22T00:00:00.000000Z"
+  },
+  {
+    "amount": 10.57,
+    "name": "Lunch",
+    "category": "Food",
+    "date": "2024-04-08T00:00:00.000000Z"
+  },
+  {
+    "amount": 12.2,
+    "name": "Groceries",
+    "category": "Food",
+    "date": "2024-06-17T00:00:00.000000Z"
+  },
+  {
+    "amount": 500.26,
+    "name": "Electricity bill",
+    "category": "Housing",
+    "date": "2024-05-20T00:00:00.000000Z"
+  },
+  {
+    "amount": 19.95,
+    "name": "Software License",
+    "category": "Other",
+    "date": "2024-03-29T07:18:41.846Z"
+  },
+  {
+    "amount": 25.62,
+    "name": "Taxi ride",
+    "category": "Transportation",
+    "date": "2024-02-28T00:00:00.000000Z"
+  }
+]
